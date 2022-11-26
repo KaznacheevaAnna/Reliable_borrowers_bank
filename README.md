@@ -1,4 +1,4 @@
-# 02_Reliable_borrowers
+# Reliable_borrowers_bank
 Исследование надежности заемщиков банка
 
 Сфера:
